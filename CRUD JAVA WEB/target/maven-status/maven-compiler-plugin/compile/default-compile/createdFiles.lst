@@ -1,0 +1,12 @@
+com\mycompany\cruda\resources\JakartaEE8Resource.class
+com\mycompany\cruda\JakartaRestConfiguration.class
+modelo\Empleado.class
+modelo\Test.class
+modelo\Validar.class
+controlador\EmpleadoControlador.class
+modelo\Persona.class
+modelo\PersonaDAO.class
+modelo\Conexion.class
+modelo\EmpleadoDAO.class
+modelo\Conexion2.class
+controlador\Controlador.class
